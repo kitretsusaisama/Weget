@@ -1,5 +1,6 @@
 title: Vonge
-
+url: kitretsusaisama.github.io
+   baseurl: /Weget
 plugins:
   - jekyll-bookshop
   - cloudcannon-jekyll-bookshop
